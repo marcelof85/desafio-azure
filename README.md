@@ -1,2 +1,4 @@
 # desafio-azure
 Desafio Azure Speech Studio e Language Studio do bootcamp "Suzano - Python Developer #2" da plataforma DIO.
+
+Nele fomos introduzidos de forma um pouco mais prática e aprofundada às funcionalidades das ferramentas Azure Speech Studio e Language Studio do serviço Azure da Microsoft, mostrando seu potencial para soluções de problemas e versatilidade para organizações com aplicabilidade para diversas funcionalidades. O serviço Azure é bem abrangente e apresenta diversas ferramentas e funcionalidades tendo boas aplicações em questões de análise de linguagem natural, análise de sentimentos, base de conhecimentos para bots de atendimento e resposta entre muitos outros. É uma ferramenta que está fazendo grande uso do potencial da IA desenvolvido até agora e suas multiplas aplicações.
